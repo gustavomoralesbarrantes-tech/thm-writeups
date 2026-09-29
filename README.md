@@ -9,7 +9,7 @@ Parte de mi camino de transición de IT infrastructure hacia ciberseguridad ofen
 | Máquina | Dificultad | Técnicas destacadas |
 |---|---|---|
 | [Cyborg](./Cyborg-writeup.md) | Fácil/Media | Directorios web expuestos, cracking de hash MD5, extracción de repositorio BorgBackup, inyección de comandos vía `sudo` |
-
+| [Root Me](https://github.com/gustavomoralesbarrantes-tech/Tryhackme-Rootme-writeup) | — | Ver repo separado |
 ## 🛠️ Herramientas usadas frecuentemente
 
 - `nmap` — reconocimiento y detección de servicios
