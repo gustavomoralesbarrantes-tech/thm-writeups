@@ -116,7 +116,7 @@ http_access allow auth_users
 ### Archivo `archive.tar` en `/admin/`
 
 ```
-![Vista fuente de archive.tar mostrando el repositorio BorgBackup](view-source:http://10.64.137.139/admin/archive.tar)
+![Vista fuente de archive.tar mostrando el repositorio BorgBackup](admin-archive-source.png)
 ```
 
 images/admin-archive-source.png
