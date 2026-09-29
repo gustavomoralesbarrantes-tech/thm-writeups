@@ -96,7 +96,7 @@ gobuster dir -u http://10.64.137.139/ \
 
 ### Directorio `/etc/squid/` expuesto
 
-   images/etc-squid-index.png
+   ![Índice de /etc/squid con archivos passwd y squid.conf](images/etc-squid-index.png)
 
 **Archivo `passwd`:**
 ```
@@ -116,7 +116,7 @@ http_access allow auth_users
 ### Archivo `archive.tar` en `/admin/`
 
 ```
-view-source:http://10.64.137.139/admin/archive.tar
+![Vista fuente de archive.tar mostrando el repositorio BorgBackup](view-source:http://10.64.137.139/admin/archive.tar)
 ```
 
 images/admin-archive-source.png
@@ -220,7 +220,7 @@ alex:S3cretP@s3
 ssh alex@10.64.137.139
 ```
 
-images/ssh-login.png
+![Conexión SSH exitosa con el usuario alex](images/ssh-login.png)
 
 
 **Credenciales:** `alex:S3cretP@s3`
