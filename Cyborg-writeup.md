@@ -115,9 +115,8 @@ http_access allow auth_users
 
 ### Archivo `archive.tar` en `/admin/`
 
-```
-![Vista fuente de archive.tar mostrando el repositorio BorgBackup](admin-archive-source.png)
-```
+![Vista fuente de archive.tar mostrando el repositorio BorgBackup](images/admin-archive-source.png)
+
 
 images/admin-archive-source.png
 ### Cracking del hash con John the Ripper
