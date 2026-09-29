@@ -96,7 +96,7 @@ gobuster dir -u http://10.64.137.139/ \
 
 ### Directorio `/etc/squid/` expuesto
 
-![[Pasted image 20260929130344.png]]
+   images/etc-squid-index.png
 
 **Archivo `passwd`:**
 ```
@@ -119,7 +119,7 @@ http_access allow auth_users
 view-source:http://10.64.137.139/admin/archive.tar
 ```
 
-![[Pasted image 20260929130642.png]]
+images/admin-archive-source.png
 ### Cracking del hash con John the Ripper
 
 ```bash
@@ -220,7 +220,7 @@ alex:S3cretP@s3
 ssh alex@10.64.137.139
 ```
 
-![[Pasted image 20260929140441.png]]
+images/ssh-login.png
 
 
 **Credenciales:** `alex:S3cretP@s3`
